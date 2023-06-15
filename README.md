@@ -25,9 +25,9 @@ Inserir link
 Acesse o [Google](https://www.google.com)
 ou acesse o [Spotify](https://www.spotify.com)
 #### Caixas de Check
-- [ ] Fazer a tela de login
-- [ ] Criar a tela de calculo
-- [ ] Criar a tela de histórico
+- [x] Fazer a tela de login
+- [x] Criar a tela de calculo
+- [x] Criar a tela de histórico
 
 ##### Tabelas
 | Coluna 1 | Coluna 2|
